@@ -1,2 +1,1 @@
-# Todo
-HW Seminar2
+Seminar 3
